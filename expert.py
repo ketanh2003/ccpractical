@@ -41,5 +41,5 @@ def evaluate_performance(name, productivity, teamwork, communication):
         performance_label = "Poor"
     return performance_label
 
-k=evaluate_performance("John", 95, 4.5, 4)
+k=evaluate_performance("Ketan", 93, 4.5, 4)
 print(k)
